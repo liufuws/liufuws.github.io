@@ -1,0 +1,23 @@
+{
+    "name": "liufu",
+    "short_name": "liufu",
+    "version": "1.0.0",
+    "description": "我会记住直到忘记为止。",
+    "manifest_version": 2,
+    "icons": [
+        {
+            "src": "images/logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#3eaf7c"
+}
